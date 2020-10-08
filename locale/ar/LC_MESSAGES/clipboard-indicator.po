@@ -1,43 +1,42 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Catalan translation for gnome-shell-extension-clipboard-indicator.
+# Copyright (C) 2018 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the gnome-shell-extension-clipboard-indicator package.
+# Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2018.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: gnome-shell-extension-clipboard-indicator\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-25 21:52+0300\n"
-"PO-Revision-Date: 2017-12-02 09:23+0100\n"
-"Last-Translator: Piotr Komur <pkomur@gmail.com>\n"
+"PO-Revision-Date: 2018-03-10 10:10-0600\n"
+"Last-Translator: Ahmed Ayman <ahmedayman055g@gmail.com>\n"
 "Language-Team: \n"
-"Language: pl_PL\n"
+"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.4\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #: extension.js:86
 msgid "Text will be here"
-msgstr ""
+msgstr "النص سيكون هنا"
 
 #: extension.js:128
 msgid "Type here to search..."
-msgstr "Szukaj..."
+msgstr "اكتب هنا للبحث"
 
 #: extension.js:197
 msgid "Private mode"
-msgstr "Tryb prywatny"
+msgstr "الوضع السري"
 
 #: extension.js:204 prefs.js:107
 msgid "Clear history"
-msgstr "Wyczyść historię"
+msgstr "محو السجلات"
 
 #: extension.js:209
 msgid "Settings"
-msgstr "Ustawienia"
+msgstr "ضبط"
 
 #: extension.js:338
 msgid "Clear all?"
@@ -61,39 +60,39 @@ msgstr ""
 
 #: extension.js:356
 msgid "Clipboard history cleared"
-msgstr "Wyczyszczono historię schowka"
+msgstr "تم ازالة سجلات الحافظة"
 
 #: extension.js:490
 msgid "Copied to clipboard"
-msgstr "Skopiowano do schowka"
+msgstr "تم النسخ في الحافظة"
 
 #: prefs.js:105
 msgid "Toggle the menu"
-msgstr "Przełącz menu"
+msgstr "بدل حالة القائمة"
 
 #: prefs.js:109
 msgid "Previous entry"
-msgstr "Poprzednia pozycja"
+msgstr "المدخل السابق"
 
 #: prefs.js:111
 msgid "Next entry"
-msgstr "Następna pozycja"
+msgstr "المدخل التالي"
 
 #: prefs.js:120
 msgid "History Size"
-msgstr "Rozmiar historii (liczba elementów)"
+msgstr "عدد العناصر في السجل "
 
 #: prefs.js:125
 msgid "Refresh Interval (ms)"
-msgstr "Interwał odświeżania (ms)"
+msgstr "فترة الريفريش بالمللي ثانية"
 
 #: prefs.js:130
 msgid "Preview Size (characters)"
-msgstr "Rozmiar podglądu (znaki)"
+msgstr "عدد الاحرف في المراجعه"
 
 #: prefs.js:135
 msgid "Max cache file size (kb)"
-msgstr "Maksymalny rozmiar pliku pamięci podręcznej (kB)"
+msgstr "اقصي حجم للكاش فايل بالكيلوبايت"
 
 #: prefs.js:140
 msgid "Cache only favorites"
@@ -101,7 +100,7 @@ msgstr ""
 
 #: prefs.js:145
 msgid "Show notification on copy"
-msgstr "Pokaż powiadomienie po skopiowaniu"
+msgstr "اظهار الاشعارات عند النسخ"
 
 #: prefs.js:150
 msgid "Move item to the top after selection"
@@ -109,20 +108,20 @@ msgstr ""
 
 #: prefs.js:155
 msgid "Keyboard shortcuts"
-msgstr "Skróty klawiszowe"
+msgstr "اختصارات الكيبورد"
 
 #: prefs.js:160
 msgid "Number of characters in top bar"
-msgstr "Liczba znaków na panelu"
+msgstr "عدد الاحرف في الشريط العلوي"
 
 #: prefs.js:165
 msgid "What to show in top bar"
-msgstr "Pokazuj na panelu"
+msgstr "ما سيظهر في الشريط العلوي"
 
 #: prefs.js:170
 #, fuzzy
 msgid "Remove down arrow in top bar"
-msgstr "Liczba znaków na panelu"
+msgstr "عدد الاحرف في الشريط العلوي"
 
 #: prefs.js:175
 msgid "Remove whitespace around text"
@@ -130,20 +129,15 @@ msgstr ""
 
 #: prefs.js:232
 msgid "Icon"
-msgstr "Ikona"
+msgstr "أيقونة"
 
 #: prefs.js:233
 msgid "Clipboard Content"
-msgstr "Zawartość schowka"
+msgstr "محتوي الحافظة"
 
 #: prefs.js:234
 msgid "Both"
-msgstr "Ikona oraz zawartość schowka"
+msgstr "كلاهما"
 
 #~ msgid "Disable cache file"
-#~ msgstr "Nie zapisuj do pliku pamięci podręcznej "
-
-#, fuzzy
-#~| msgid "Clipboard Content"
-#~ msgid "Icon + Clipboard Content"
-#~ msgstr "Zawartość schowka"
+#~ msgstr "الغاء الكاش في فايل"

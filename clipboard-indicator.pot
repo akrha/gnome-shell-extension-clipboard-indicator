@@ -6,106 +6,133 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-12-02 08:42+0100\n"
+"POT-Creation-Date: 2020-09-25 21:52+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.3\n"
-"X-Poedit-Basepath: .\n"
-"X-Poedit-SearchPath-0: prefs.js\n"
-"X-Poedit-SearchPath-1: extension.js\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2);\n"
 
-#: extension.js:78
+#: extension.js:86
 msgid "Text will be here"
 msgstr ""
 
-#: extension.js:119
+#: extension.js:128
 msgid "Type here to search..."
 msgstr ""
 
-#: extension.js:166
+#: extension.js:197
 msgid "Private mode"
 msgstr ""
 
-#: extension.js:173 prefs.js:102
+#: extension.js:204 prefs.js:107
 msgid "Clear history"
 msgstr ""
 
-#: extension.js:178
+#: extension.js:209
 msgid "Settings"
 msgstr ""
 
-#: extension.js:285
+#: extension.js:338
+msgid "Clear all?"
+msgstr ""
+
+#: extension.js:339
+msgid "Are you sure you want to delete all clipboard items?"
+msgstr ""
+
+#: extension.js:340
+msgid "This operation cannot be undone."
+msgstr ""
+
+#: extension.js:342
+msgid "Clear"
+msgstr ""
+
+#: extension.js:342 extension.js:491
+msgid "Cancel"
+msgstr ""
+
+#: extension.js:356
 msgid "Clipboard history cleared"
 msgstr ""
 
-#: extension.js:364
+#: extension.js:490
 msgid "Copied to clipboard"
 msgstr ""
 
-#: prefs.js:100
+#: prefs.js:105
 msgid "Toggle the menu"
 msgstr ""
 
-#: prefs.js:104
+#: prefs.js:109
 msgid "Previous entry"
 msgstr ""
 
-#: prefs.js:106
+#: prefs.js:111
 msgid "Next entry"
 msgstr ""
 
-#: prefs.js:119
+#: prefs.js:120
 msgid "History Size"
 msgstr ""
 
-#: prefs.js:124
+#: prefs.js:125
 msgid "Refresh Interval (ms)"
 msgstr ""
 
-#: prefs.js:129
+#: prefs.js:130
 msgid "Preview Size (characters)"
 msgstr ""
 
-#: prefs.js:134
+#: prefs.js:135
 msgid "Max cache file size (kb)"
 msgstr ""
 
-#: prefs.js:139
-msgid "Disable cache file"
+#: prefs.js:140
+msgid "Cache only favorites"
 msgstr ""
 
-#: prefs.js:144
+#: prefs.js:145
 msgid "Show notification on copy"
 msgstr ""
 
-#: prefs.js:149
+#: prefs.js:150
+msgid "Move item to the top after selection"
+msgstr ""
+
+#: prefs.js:155
 msgid "Keyboard shortcuts"
 msgstr ""
 
-#: prefs.js:154
+#: prefs.js:160
 msgid "Number of characters in top bar"
 msgstr ""
 
-#: prefs.js:159
+#: prefs.js:165
 msgid "What to show in top bar"
 msgstr ""
 
-#: prefs.js:205
+#: prefs.js:170
+msgid "Remove down arrow in top bar"
+msgstr ""
+
+#: prefs.js:175
+msgid "Remove whitespace around text"
+msgstr ""
+
+#: prefs.js:232
 msgid "Icon"
 msgstr ""
 
-#: prefs.js:206
+#: prefs.js:233
 msgid "Clipboard Content"
 msgstr ""
 
-#: prefs.js:207
+#: prefs.js:234
 msgid "Both"
 msgstr ""
